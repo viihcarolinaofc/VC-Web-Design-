@@ -1,2 +1,2 @@
 # VC-Web-Design-
-Basic webpage still learning basic concepts
+This is a simple web site for web design companies, Basic webpage still learning html& css concepts
